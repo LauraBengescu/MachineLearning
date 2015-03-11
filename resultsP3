@@ -1,0 +1,24 @@
+
+adagrad batch_size = 25 
+	learning_rate = 1e-1
+	testError11.83	
+	trainError5.25	
+	
+	learning+rate= 1/2e-1
+	testError11.68	
+	trainError5.725
+	
+	
+	batch_size = 10
+	learning rate = 1e-1
+	testError11.57	
+	trainError4.725	
+	
+	batch_size = 5
+	testError11.57	
+	trainError4.725	
+	
+	Training on 20000:
+	testError10.57	
+	trainError7.125	
+
